@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\bangc\\OneDrive\\M\u00E1y t\u00EDnh\\T\u00E0i li\u1EC7u - FPT University\\PRN212\\Project\\.NET-Application\\PRN212_PROJECT\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{18823A82-FD2D-4787-AFFB-21598CFD3455}|PRN212_PROJECT\\PRN212_PROJECT.csproj|c:\\users\\bangc\\onedrive\\m\u00E1y t\u00EDnh\\t\u00E0i li\u1EC7u - fpt university\\prn212\\project\\.net-application\\prn212_project\\prn212_project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{18823A82-FD2D-4787-AFFB-21598CFD3455}|PRN212_PROJECT\\PRN212_PROJECT.csproj|solutionrelative:prn212_project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{18823A82-FD2D-4787-AFFB-21598CFD3455}|PRN212_PROJECT\\PRN212_PROJECT.csproj|c:\\users\\bangc\\onedrive\\m\u00E1y t\u00EDnh\\t\u00E0i li\u1EC7u - fpt university\\prn212\\project\\.net-application\\prn212_project\\prn212_project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18823A82-FD2D-4787-AFFB-21598CFD3455}|PRN212_PROJECT\\PRN212_PROJECT.csproj|solutionrelative:prn212_project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -35,6 +39,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\bangc\\OneDrive\\M\u00E1y t\u00EDnh\\T\u00E0i li\u1EC7u - FPT University\\PRN212\\Project\\.NET-Application\\PRN212_PROJECT\\PRN212_PROJECT\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PRN212_PROJECT\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\bangc\\OneDrive\\M\u00E1y t\u00EDnh\\T\u00E0i li\u1EC7u - FPT University\\PRN212\\Project\\.NET-Application\\PRN212_PROJECT\\PRN212_PROJECT\\MainWindow.xaml",
+              "RelativeToolTip": "PRN212_PROJECT\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-15T09:02:47.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\bangc\\OneDrive\\M\u00E1y t\u00EDnh\\T\u00E0i li\u1EC7u - FPT University\\PRN212\\Project\\.NET-Application\\PRN212_PROJECT\\PRN212_PROJECT\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "PRN212_PROJECT\\MainWindow.xaml.cs",
@@ -42,8 +58,7 @@
               "RelativeToolTip": "PRN212_PROJECT\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T09:02:46.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T09:02:46.683Z"
             }
           ]
         }
